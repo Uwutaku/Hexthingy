@@ -9,7 +9,6 @@ import at.petrak.hexcasting.api.misc.MediaConstants
 import net.minecraft.entity.Entity
 import net.minecraft.entity.EntityType
 import net.minecraft.entity.LivingEntity
-import net.minecraft.entity.mob.VexEntity
 import net.minecraft.entity.passive.AllayEntity
 import net.minecraft.server.world.ServerWorld
 import net.minecraft.text.Text

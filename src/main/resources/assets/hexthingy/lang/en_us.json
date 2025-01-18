@@ -10,9 +10,9 @@
   "hexthingy.entry.allaycreation": "Allay Creation",
   "hexthingy.entry.patternthings": "Pattern Things",
   "hexthingy.entry.spellthings": "Spell Things",
-  "death.attack.smitecaster": "%1$s some death",
-  "death.attack.smiterecipient": "%1$s some death",
-  "hexthingy.page.smite": "Deals damage to entity. Costs about 1.5 $(l:items/amethyst)$(item)Amethyst Shards/$ per 1 $(thing)HP/$.",
+  "death.attack.smitecaster": "%1$s didn't survive the reflected damage",
+  "death.attack.smiterecipient": "%1$s absorbed too much damage",
+  "hexthingy.page.smite": "\"hexthingy.page.smite\": \"Divides and deals damage between the caster and the target based on their media amount. Costs approximately 1.5 $(l:items/amethyst)$(item)Amethyst Shards/$ per 1 $(thing)HP/$ of damage dealt.\"",
   "hexthingy.page.allaycreation": "By infusing a Vex with media, you can create an Allay. Costs about 15 $(l:items/amethyst)$(item)Charged Amethyst/$",
   "hexthingy.page.things.pasteurpurification": "Takes an entity and returns its health",
   "hexthingy.page.things.cleaneffect": "Takes an entity and removes all effects from it (Will not remove Infinite effects). Costs about 1 $(l:items/amethyst)$(item)Amethyst Dust/$ per every second multiplied by the level of effect."
